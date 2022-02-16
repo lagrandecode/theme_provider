@@ -7,7 +7,9 @@ class Login extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return Container(
-      color: Colors.yellow,
+      decoration: const BoxDecoration(
+        color: Colors.grey
+      ),
     );
   }
 }
