@@ -14,6 +14,6 @@ class Login extends StatelessWidget {
           ),
         )
       ],
-    )
+    );
   }
 }
