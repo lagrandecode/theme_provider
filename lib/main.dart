@@ -26,7 +26,7 @@ class _HomePageState extends State<HomePage> {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      body: Container(
+      body: SafeArea(
         child: Column(
           children: [
             Text("dark theme and light theme")
