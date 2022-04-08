@@ -1,7 +1,5 @@
 # theme_provider
 
-A new Flutter project.
-
 ## Getting Started
 
 # this works perfectly in both platform 
